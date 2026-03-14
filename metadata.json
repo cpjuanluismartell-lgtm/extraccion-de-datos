@@ -1,0 +1,5 @@
+{
+  "name": "Extracción de datos",
+  "description": "Parse and organize payroll strings into copyable data rows sorted by code.",
+  "requestFramePermissions": []
+}
